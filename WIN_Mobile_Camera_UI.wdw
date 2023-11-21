@@ -1,0 +1,818 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Mobile_Camera_UI
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Mobile_Camera_UI
+ identifier : 0x23e4c4b6204ab994
+ internal_properties : CAAAAAgAAADm7giVMmE1EYSh569q0zjfICl+/PgrYuUjTJQg8u8TditYllYvaL7QD4vAdtxrQPQVSPGqT+waGYMNoJSQbl859+rSFGD9x07OBXDjQFxuxWs2fxjr99WMfy+6w8MHSBfaepcJz2pk4eKQxsyPP+/BvNxajT2nRZDW+e6gHBu7IvwA6BxIH7cF2U/YD+Gcs5efbqLvAvG1f8sewNyqZF9QWw+6khy/khgE9WSbYOsJ+jc3M7l7TLatkh63Ltb8xrxP91OrraAV36S9j73nziTreAZxVRVBlbFwjQSZgrp94OUY/I7hP0B/gpAGiOgwlxh9+dgGiuFO6F8/eZn4zxdQ1alygXwurH9qUBG4gIu49ML3A2zlobh46mgeoXmq63byMD3wfgc2wNF4SBPkqDf8HANR2OoB/xDObw/7nBfgY7sctNit9PDTcZxMZo2jS6WwqMiAjfAqd/4v2WqQ1kWiRXs+712Sd7HgKD2cNka5qe0G7JnyF8MXFyIQQSyeJNDz2OStiZCm6zsNPhGwZN/4K9z6KxiNBfkO0MVjnwTdDHyh4nHUrh96bD7G/GrgSYiiW/RZzCaKO4jgLL3GIguIrWWUDwjn5XdSHNWon1JFeGeX3gXYocQ/v5glqLKsxwJrlyYXjeFRrqjPmhecKSY1kOM3+SnrVDg9NqGt5yEoVy1dICBbBTFF0/EkyFejekjXwKfX7DtsuT8xJY54biksIepX6uXsQcaNVWJH2PDVrpXst3/YuSbynkDPLQTNfuNkB5x+XJxveW12AGEFivTDA4eEmiiWtVoBaDRky+2Ahp8fpq/JgGBhpZXkbZc/QPiVdyhwT5qCgePteqEWhnHB+P5Ex1iIdeMPISa1+5XmoDTz0Sn6pLS3ZrECh8S+hc5pGdUiK4LacFQXmAMeKobnN2RgAKMLIjwVs5yPzlv4zCt3ewSd0LQPLcNHB5Ww4UfWVEp46v0aB8EZwJsVxhxlnQbawqdTXsJCjBF4fAgDKYs3w4gCj5QjscBEUIWpyRlH4KqsZE+QnEY=
+ properties :
+  width : 360
+  height : 360
+ controls :
+  -
+    name : IMG_VideoMode
+    identifier : 0x23e4c4b6204db9a3
+    internal_properties : CAAAAAgAAADoF6KG6J/1/g2Bt53p7QFrfbZGqjjqOHU8eG6u0HxLy5LvcRAje/GJHMr3zrIMwKhQWcA/Kt6db+aDmheRGuWv6z6wN+XYP48yjN3Hel7JluIIblrRFfAljTTE1iLH/wxd1UCHKVmxQJs14WqKOHL6vJEZYF/xICEUN3V93FT5Rc/0GrUABNuUu4uwb9VsuySdBgbse555xLGClo2HvzpC8aBLmi+vzYxmkjqGNUknCkYzz+T7hBySuCk0MOqTT1xTdIBAQoy4IGuBjc72BKuL7WLCYGCa4eUKvMgo4gkw5blQQXta23lDCtS/f58ff8yT1VdJ1l9H/gAmOp5OsRQZ+O7AS5TLEVVZN68dYTltF28N/mnxM3vbl0yiX1iTeIW5rD5UfzgcNbIk8sqTSBSnCBqoTvEvubXah1waQfUG0/Pi2eW8BABjEM0cTxRIiMknAaF9i6hkEXMhAm1Qevm4EQggcXYSb50J199wHDWUJFQz/IV8ciffiswpsyPF0IiVEAABtDVtoEbsc3lUXbi2PUxg8RgMjtQUz2MITkmQlJ44clj7ADaYuvk1kc7upMMAYkz/xA+hsuzp3uzJQVd5D/7t9fnPKk8Qz5PpiT6MCtWKbwT2y16iifqPoc7E0/wvzcU/Wb+CLCKnjdaNRxmYpMffU7H+aOrbNts1nM1ff81YjuYfA0b4nHBfAn+tex3ey9uYyCi1hpd6kTBTwpVjPKt4uCMZXaKvvduVMAgcTdfjJUkY694vCsojc+TOG9YZM8T2D8eUlt3CDgMVm0FxOfRz2pMP88lg2DA+0Pjs5VLkKwuYBmfY/v1B6K4UOQ/HSXsFpbr58m2rc/6ftMQn3u8+rzcPgUA=
+    properties :
+     x : 32
+     y : 301
+     width : 32
+     height : 32
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAABkYxCOAWHWSEcmS47+Q4zr76DFeUhRJGaNs29bIcM+i9P48K1hoWenUlLTUcG+n+jT4Jtjp2sXjnWCcDud5gVpkt1ArZhMBRqjw7AWM4YjS6jH+jMDU88Vva+NPKIVwCdEi8l9zIuOl9Q91Q==
+        code : |1+
+         
+         // Haptic feedback
+         HapticFeedback()
+         
+         // Switch to video capture
+         MyWindow.Plane = PLAN_Video_Recording
+         RequestRefreshUI()
+        type : 18
+  -
+    name : STC_ElapsedTime
+    identifier : 0x23e4c4b6204eb9a3
+    internal_properties : CAAAAAgAAACS1WMTxmv0EDjjlUwG/Ka0o2HY2fZkb0ut81m7stPENqJ8nrWkBZ0fAMap2/bS7uO1m9CW95ERf2Ozv6ZWH3ca1xVr01+n+Cl+FxoXAhruUar1uLir7nWnhKcGCYTb6fL9NgTTfG2d8pH2wz3yMC6yyfyDCcjUOOtAp9prmDT5s+8d5yj0t9XoxmUQvGnA0POBEJV0XOPXLyDuyRZBlYTs+Xk2+5uRiD649FEJhwRmqSrOgTanUrf9Ofi99OZH0DCWYvPeuCyJ9tolnct/64WPFTQwNeyY/D0ursRRn0htnftOh9MPagDWO404EHM9Bn1LBh0O5tiHFShFlgK5zICYJHgn1pgF/TU7vWo1LdKzVCLEO3ufyCfdSewyWQsVj/LB5iNPvAvKMGPPJBZorf3lw0PSixkyrAb0EQj6HuC5jqgJXdvdENYKnnR+GkRLVfyHBOucHZjRf7S87xeV12jskwRfsAUvZvkE6J4lYC9R4UU4C5DuWaszCG9q3wc=
+    properties :
+     width : 360
+     height : 40
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : IMG_PhotoMode
+    identifier : 0x23e4c4b6204fb9a3
+    internal_properties : CAAAAAgAAADXkDiy5XzVN0fJu797+NQ1NRud9go/RfrOTHLR88g/byHGsKokz7X+HFBkNrh7/yF9uFE5ZsO3WIz7kc6Wk033L2jc5IrPL5o9TySylO+nGImXW9cJOoqpKHMtbXcCPme33h6YPBmkMxsGUD7zxWTgpIFzfb9crwWCbjQkPvpied2lyx3zELe3bC7MgJqUudmFH3uA/Hu1+BkvaoWTdC5cGc3PeLV+HsSY9yZh8vEDloJHdfT2RGxR4AX98wWepacB4BLD11Wf4Qq8TsB+S/L/0O7F5k0GkgwWzXS7z6uBS9YLexpttac6KC3s4m5TizeLeyjL3K46nMJT4/Yk1o/HFBwix4R++cVuM67H10cOJOiHvwgUnOfSsbOGtlCoGZbi1DNXVONPDfSHDX/Pnog88INE5c+037vUJcH9x/TW1/SHc+bC3isM6yK8R9W65gbCGrl5rzBWXROXzHyVD7VNjSyyKoNbELn17HGnb/YPDCNsg04tjBx/TTzmcQhuzW7kV9O/g2wiR0/KfnQHqxJjRpFG0E4c9NUI6VyEZSz+T6P+7gBVKdY9xTTsHsilP2EceF4Mzinu2XmhQXlix30AvN0KkeuydCIrv2l+QbvdAZDnVmQYFFIGg8L2skILGX5tP4oymIj57966fPDz2QD5vmPpnWFago66YaWgw6PRYiBjIdn+ctoUODKjUKszQLFhfi5DcSLgeesdvfdi9EplwNLUue4t0Ut6BaiFItUzz5vymA/Pq5AQrh4hyv0Ca/IDBwXEnXRr7tH85up0wcuenREq66wTV79XwFII2NM1KhC4LPuotbaoqnx+dCYG51+irkf0wXzGVw==
+    properties :
+     x : 32
+     y : 301
+     width : 32
+     height : 32
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        code : |1+
+         // Switch to photo capture
+         MyWindow.Plane = PLAN_Photo_Capture
+         RequestRefreshUI()
+        type : 18
+  -
+    name : IMG_Flash
+    identifier : 0x23e4c4b62050b9a3
+    internal_properties : CAAAAAgAAAA4T/PGo9XntO9x3pXMsonNgGsjiW0vt7AiwQxKMfWZK3Ch86mQkULq9ejh2rlkXJN7NOP3/1MqmW6KG1eX6xBQD7iN73aET2qdyDnhoZu71IfQNNg+hMBxiVAl8G3+S0dbF72BmmHEF0+tGh9uOuirltcafoZASO01SDcxMj3V8o60g3+ZWYIuw/XxXSslsdLoYvM79mbVlcDmzR4fSQDhStoVpBSm1WDlPpCN0hHhtzA71Apy3n7nIjj7SCjFQFeHYiHOgbcf3wfs6Dy8Bte1xwj8OgxomadTzdhBmqNFboukNHPZ+IgLAa5A0vPzmQhkZR/ZRSDnyCUEadV+R0cCdH0LaoyyAeJbcCyyGQhWuQVeabx1g+Atwh+FcGsqv2UW9gBfrfiqvP09o4BdvbQMENi72fcwHDCmKMZCJ2WCeLC1ffZ7X89DyeqtudXAyvZIwyKlDfQ93PRIhCf2Rh3ZE4STClRJotkZ7F1GZY7BlCK8EQsvJpawYId0KWasF4C0thMse5P7XBHRJlXMIDuePDLH5JNPjeM5xmko7scc75xodEwjdjE+yXMxPirJ6EC6VVnWaD/Ha9DlM8M8DhBQsibTe5ExQ4cSeWMyJU0x+JCJJ+WVaBC4k/2A7zuH6ymAWZBL5CeN6rTqMMVmmfpYaYeIQ5uzw9s5hYEwf3Ouu8pANyQsvxvjnyYtsEXfQaRh91Kjn9ogAL4VVJM9d9d78ReytNdYWIDxnYVkm5gnPFUzj/LVAWP5yK2Ido9p7tv5WnFqReVXde/lwn/Dl8xrKSHrOTgeUYQ/cgMln3vFVxaSvJQvJx43rrbxRvifJFrrR4dkeF4TcAZG+jZe6Y/TCyw421+tPgqVXpN/kaIkO8LzxowJz8nl3EusXfpOrFVriHf8FSl/YA4=
+    properties :
+     x : 296
+     y : 32
+     width : 32
+     height : 32
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        code : |1+
+         // Update the image according to the flash mode
+         MyWindow..Process[trtRequestRefresh]+=RequestRefreshUI_Flash
+         	
+         	INTERNAL PROCEDURE RequestRefreshUI_Flash()
+         		switch CAM_Capture.Flash
+         			case camFlashAuto
+         				MyControl = IMG_FlashAuto
+         			case camFlashOn
+         				MyControl = IMG_FlashOn
+         			case camFlashOff
+         				MyControl = IMG_FlashOff
+         			other case
+         		end
+         	end
+         
+         
+        type : 14
+      -
+        code : |1+
+         // Changes the flash mode
+         switch CAM_Capture.Flash
+         	case camFlashOff:	CAM_Capture.Flash=camFlashAuto
+         	case camFlashAuto:	CAM_Capture.Flash=camFlashOn
+         	case camFlashOn:		CAM_Capture.Flash=camFlashOff
+         	other case
+         end
+         
+         RequestRefreshUI()
+        type : 18
+  -
+    name : IMG_Torch
+    identifier : 0x23e4c4b62051b9a3
+    internal_properties : CAAAAAgAAAC3EDt5Gg+pXRTpNkJZZbooDsshMVSDCKKIAbCiGxbKWV/if/GrxMcsFlb97IhjQXM2FTtnvTUqY+uwNHOJlO1i9ERUJ9zCwjM1l3sx8YAv256OC4wQhETCC3T8gCT5v0YAchv/FlBeuHrbZRjkvaXeLtvYFBn4QmTp5ZAYpn4iqT3WmDMci2i4L3l9GK9vdDO4VNeRu2tOC6IxzTqJsQhzto6I7SGX6t5Bh9zXs81lvIlgIamYk0dq9hSOFGtYtTBaINck1fAJ1AP0TMEdRUrhV/5qJbTCDNOOS+4Kgo5z3zY2ckLLeev8GnizN+NPOCuy0JN+86swImVSojP+7IJMgkG9QUdPkEYdfDke+tPeqa6iuPdb7ijvxmICTJMzpmHXPQOHFY6Ly63t0aKM+5uryFFq6ttqVUK1fFGRZvR+bJBXbSB6Qr+oxPw1kGEImcLW/3W2Q2a7xpx9sKJJ39pEb7lxWq+W4uBW13us2oma6ARSBC2eef+R6ItiyK+YrjcvsTh1jRWm9QuZ500rntiUYC4YFdeMJttL3gIBiHwikT3Qr1+5b3KvSgpia5+IrCyeuEG7MYq29V9qFMAVJyAFAq+f0uJwB7G+qF4RF2rlwsXtA0pILA7FzkMwi33Q5U9c+VnsFBTA8hJuMnzm38sg4oP3saUPsuzY8jyz3EQfg2/EYbE6Lmw8IQLWM1Hx2iOcjq1FjlMLFKJrwXk7x8yvP3+m3kRessR7upwforRLLXrIrImJYPYR+3rrJrOn8uYUZxvJUJoWHNzOkxc8zT+eXu4dcBI6f2nKXkyD8aeYRDHjLS1cbl4QZZJvU+ctD3odMIdZOcwiHBFtkOMX1xs8Wb6P/g1Io0nDXvh4/eIs2ib0+ZrAkDdj4ofTi2x13mnnq6LQi9nPULyjb97LoxxKR8BkWjR2HI3VOvs9lZ1LK5yk
+    properties :
+     x : 296
+     y : 32
+     width : 32
+     height : 32
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        code : |1+
+         // Update the image according to the flashlight mode
+         MyWindow..Process[trtRequestRefresh]+=RequestRefreshUI_Torch
+         
+         	INTERNAL PROCEDURE RequestRefreshUI_Torch()
+         		switch CAM_Capture.Torch
+         			case camTorchAuto
+         				MyControl = IMG_FlashAuto
+         			case camTorchOn
+         				MyControl = IMG_FlashOn
+         			case camTorchOff
+         				MyControl = IMG_FlashOff
+         			other case
+         		end
+         	end
+         
+        type : 14
+      -
+        code : |1+
+         // Changes the torch mode
+         if CAM_Capture.Torch=camFlashOn then
+         	CAM_Capture.Torch=camFlashOff 
+         else 
+         	CAM_Capture.Torch=camFlashOn
+         end
+         RequestRefreshUI()
+        type : 18
+  -
+    name : IMG_ChangeCamera
+    identifier : 0x23e4c4b62052b9a3
+    internal_properties : CAAAAAgAAAAn1EL5HU9Bme4pAH5VhB1gSdEv51007iMKUW93m4HlLJ2TXw0rfXkHbzFs5v5svVq9ORginrlfVkZHSKeOlzHUbXvEdKE7iMQRBM03ydaZi82EiGeYh70SGkhOkhag3Y44LuF5aOIkx0iY0SKHDAGuhznlMScYu21rqgP97k3A86YBiJnPdJ6Ppwl7g4s1gEZr6QghmWJBW9AcfJbm4wcGGkqNgkEEbIxn4IwRVxtmRTsw+DMe2OeNe80QzZPdU1CjVHAJMGxCz2KWH3gA6wfVl4qjJ/mgCnB22YediYT/s6BldLlc7tkKEiZQ9rP0AXbu3T1ApXB4Ay+RJGi+oJ3D0ON9E0sofJZ7CEjFkJtd6JLxDshZ9SsIDxb4/i8zuSVGY5dM2UHkjGdcjjR9uZrueqm+4wiEbir5EKFSaen4A1/t2Rw5wb1aUJw3x/GwXR3GohyB0B/xxdvR4XXliDJHTo7P5IKAJvG46YybGFcr9cyI1/aUElzU5RNRsdnCfF1uPsus335/S9D+gYxXNtpFhECIRoRUHU8GWG/v5nBYukUalk9UqeWXCaec7DmGfOPPwzgxla89uA5gaFavP8KD5grTzSiYnt9vGDD3/+4dSZA0WAvAuDkZbWpBkviaKiYueK+3oPeP8f05PGVLPYyGSFa34M8eG3vNDomlWV23gha2N4sNzQtB975Dypobp5A1p326wWGLVO/VJS3+q+y0LNpMAR3nfvPTDG2w8ke7cbK+piE8Svega2rgTiEb3uhIHShUJpg8Y/BqR3bOk+sV50vncKnt2AGrjoY7H9sQIlrxn9YpT8X1kI1CFFJZCJ3OB7pv75VybNSrqzcSjErjAnq0B+D2qXwZofEKMrgg+hs=
+    properties :
+     x : 288
+     y : 301
+     width : 32
+     height : 32
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1+
+         // Requests to switch the camera
+         if CAM_Capture.Camera=camBackCamera then
+         	CAM_Capture.Camera=camFrontCamera 
+         else 
+         	CAM_Capture.Camera=camBackCamera 
+         end
+         RequestRefreshUI()
+        type : 18
+  -
+    name : IMG_ActionPhoto
+    identifier : 0x23e4c4b62053b9a3
+    internal_properties : CAAAAAgAAAAOIb6AUVH5ezmoCC7iB4u/2jTVhPj7vse7414BwG2wdGC6F5zkrN3TunGQi3o3eF8WgmWLh7pBFsjCuJYfz+3xyPD2xEAzIz1fk+JbrORSZjMJJjy5p/722FRwZM8EEEgrMRf5e3iMiIYPH3pBySiNcZDZOhLxX0TBsqqp6C7QbvJP3qBdCHwTwufCmlduhQbKbK1DCF2zG+IwrHiRpK4DL6ffvkWglwAAKdzOmxaP/hlDuf3q5OhcIRsyiNnRn9TRSVX/4/LzZQJHnym9LvUqehv/k2mfF+ORlKgU5CSpkcnTzBi9fIMsjoxi3s2Zt/76dCZBpuuZrTHfwZ/nvIq+1Lc8TNOSggvdBv7hrvjOF6ZItw9zkLNTQ38ExFULw4rXPW9Sj9wmPOfw2UpkaYay0s3RneYkA1JdoU7US8l1oYQ5IfSuEdFUUN0nzfH5Jg90dcI2GJgaiQJQ4gzJIqF5FCr3QAiiYKGoZmWkH1EZ4WRiWKemA0rgUqS4555bdYPRqwJUgma2AQknFhX3LAbUcriVVwpjXtM26K4S2zh3eqXkBzobeQ+oEWw2JHlnrHMVtaq0y7rkdI99TIp7+k+SqjgNFezFZq0CAU1SPCQu5x2C1OXs3ea/T88akWe75NF53TAcuuHyrjF+0yYjY/ekG2yVQ+7pYOa2AWOm4GIrudC8w0veVfYqX4O1O7vOq0N/S4Di8ibZoCx+RJReQl05rweOQteEVc9gwh3siw3ygCzFSbF5gpONV4PPuC3FZoL7WTbzWquOzr3fEDJ/l4/k6n0XokaCSpyYsGBK3Ihu+85L4lLrGLD+IZKazOdl0fFiXVW57KBtA5RepMWwOvVUuiL9nak=
+    properties :
+     x : 147
+     y : 284
+     width : 66
+     height : 66
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        code : |1+
+         // Takes a photo from the Camera control
+         TakePhoto()
+        type : 18
+  -
+    name : IMG_ActionVideo
+    identifier : 0x23e4c4b62054b9a3
+    internal_properties : CAAAAAgAAADa8SQdrZORZpJPoMQgZYFw6ysy1FlT/U74/AkJ06tQqN+PcixbQIbKre5ldfMxA6zgmzkJ6ZDcYI1XSCmCL3R2Lac9NsYWysuNMO3tQA5k9EWGbdEcudlNsjSV3bjfuUxscsPF9b+02hG3l4E4e1wQiJhgqVF8a+dKHEqz2DYu9UEuOuQPKV6JqMJdOpDT8OalUhG1HczlLxqXPJHtyZPsrslEgz7/I038asaHLY3LMWY1UwicTi0AXDuQiGw1ewFIK3VbqLzYRhJNnqzKTiTOUbeUAUczs1WzKfZ2eYS+bdnfbgRdM2hwfxRbE458i48OC4b3K9pUU6QdbWaogUJSACatdxqNh9AwF+2NmcAJKy/4FPvKHLXR2f9dwc+0saNlWdz8ZTGodMRR93lClfTGR++ONrGZH127SPJ4hdZzoxRclW8GiMmGf5yol/fMT1749u4S4nPl4uZnJl847or0U9JS1C9Ekf5iZi6BUztyV7XOOJuiSum/KS0P+YCMY1aEq/3gdQQrbpwFQqbUszAkmZuRzkkHr1BhfOA953i3DYc3QKZFVuQr9cSm8l2JcZXz4H4gkewRAA7pt+BcM3OQMq/f5OwIRfM2nrupxRdE3YArc7vxm/BBodw0OIudPp2wAqL4m7PzlvuA8/xc4oHwPo2Px2XwyOk9rdzLIenMFwhQGwuuM9SR067xXQfBFPlo8gr1a2XuG0bMPA48Q/Kh4JEp3X+beo/8sX3bjWSMTg0K+tggURX1xrulfERxByf5nOBTXInwr9AWobqpvkAna3gD7pjZMbJXLWE8yTiDAkCh4jkF7+ObxCtfokXP2l0ZcYzI2UgjEe4VQwFJ3tVW
+    properties :
+     x : 147
+     y : 284
+     width : 66
+     height : 66
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        code : |1+
+         // Starts recording a video from the Camera control
+         StartRecordingVideo()
+        type : 18
+  -
+    name : IMG_StopRecording
+    identifier : 0x23e4c4b62055b9a3
+    internal_properties : CAAAAAgAAAA5p10iAnqt6K+Uw8xaCkylXPok98+M3pU36dXASsYo81v5gSrTNxvZB7/Z7+I1hneg5T/OxwBZ+ImQIfbWcpWAwvkNEBXO51Ftdm+dK4KakhfmcYIUUo0ygsgYTEzWO01xELNvui4lNu3IA/6Ys7pHM91PzhcnkHeGjntQIOysjJUmhZ7hgOXO92d3XTZQ0qPF3iwL5dfF748HISQUuqeLhdr6XiO+sCwNILNlKzniQnfrMFJ1isGBV6AWUnQ89GOZ6xcpyuXVvcVFn2kGbBC0ROv5yLg1NwNwYvGwbDjJQOglB7noVFzKAmZlJfZuCzQPxmXj2T5oCXN8L2iq4u+jHePjb/0DHIvRfVj5DuxoGFcvfqq4mgUptcrNlRmH+uxNrYHO9eLYOjycECEUhtj7qRwUa2+F5Nv8jM5pt/wNWPNLHJT9F6WRSqOvqmlKFgIIp4Y8fdt+QD6uUYHADUBZC0oikv1OU4mqFW6q0rliNPJdkDUpjkI/tIMwMnVyuNLchXVwyOwtlXPlCzNxQ9rH9rl1UCiTtw0OeXZrtZeTWb1DmCLEPgXYkOs40bH6xHpP50lGprJLGwVmGvpko2ujpyCbM8Zh5EhPep/VuJs2AonCXZtzUsSY/Yfu/1UxlW3Ezc75+AMrn132PbbFr8uQqCsgVrimYTQQkiz3VTW/Up4nijqmskjayJIxGzfkkVEZQ7+ZZlM3A0zze8F0B4nO83YjPSUIo+BnkEl3mjD0njjZroe5XR9NzStF3/nshWZl4I4VaczL3BPZnQTAkFeHMwlRyApNIYSbAJho1ZeNW/MNvjTZFpKmYk9e++bkjLl7EdlrPzPRm90wTX5OsmkXqNl1brzb
+    properties :
+     x : 147
+     y : 284
+     width : 66
+     height : 66
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        code : |1+
+         // Stops the video recording
+         CameraVideoStop(CAM_Capture)
+        type : 18
+  -
+    name : BTN_TakePhotoAgain
+    identifier : 0x23e4c4b62059b9a3
+    internal_properties : CAAAAAgAAACRIKzWwBJrgFu2AxGkMkCMOd88c6CLFwL013RPysrf8pD7PQMKlMyFBJkk5oKllp440tPnE2LZ5dcAdUAUovJnoPRUziBGo3s9ib0rtFaKDDIebv+GvnlqGVWg3kEYUVPA02jqCb5jnLAknLCIejr0GD6ZPD37s/oaLvAKIs3815WyDObTujd9YGBAyPDgrJDxzfWGtPM13S4qj8Ze9lIETZTT4hYThGmcxyeqGEaWSxbjGUAGpPdVNjDGubEhi68tb8RVJ56bTAa8jpeBZOgpoyf0iln6KByQPOhWnwVi2cKtKoTlvzc3OopWhKUpu/rbif4Ife7F/vfqPnDQVR8JHp04whS2Q7NJm7cAgDYGIXF7GoiQDQ0sZBmwny8DWwfEEV8Dsbr2bNusDQEHYkW0wLH62+R/MMbJwlajq7SMfS/ZOaFKBRvFcHQbHyO1jkwu4BCNltl9Og3VMXB7eEY/TpFLAg2JdZVE4M/uKrsIRK6D71u7l7dq6grV3gmDBAkj1n39QEoMsgbKqN/WPUfmLL0RCZLG4mNkGZ4j5JvNdkgYEAu9mRybbP4PDN5N3hRDOXuSk9nDfQB5NZ/OAf+CP7AHxCsakp5QNzKbiHswmbDB+IKxPuak+UokIHOMO4jC92B83MQo3ZUUNIn9/aPKwJohdIs/JHhQj2bI62kesvommJPPonl6mvRrs335Wg8O7h4a0YBQ6q9QjjFdAquj58AdGvGO/imOPUnzHY8+myhdt+p/3wlOskgsMwwPk6DvAbkyzGGhayO4VYgW/2QTq1pktQ2ZODduO14ssSfyH3aYkA==
+    properties :
+     x : 14
+     y : 303
+     width : 160
+     height : 48
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         // Ignores the photo taken
+         fDelete(gsPath)
+         gsPath = ""
+         // Ignores the preview of the picture that has been taken
+         IMG_Preview = ""
+         MyWindow.Plane	= PLAN_Photo_Capture
+         // Refreshes the display
+         RequestRefreshUI()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_OK
+    identifier : 0x23e4c4b6205ab9a3
+    internal_properties : CAAAAAgAAABie9biS0PH+O3ftoxYjoLOE7HEqnq+c8eCCzY08bDDVi/jVA4/X82oo/W81aCtgwhuaXP4aFzXmuvvWNHihff7HpY8oJyg1C7WwNmjdhyVmFBkiSSTRDVaR9VZ+06B6RBICvV+Wby+KRZj4npiwg1kojyTEDeYWZeIDc//wNJMHmBs83kA009n003MVcqcq9JtnHFxfV3Ff0wu1e5Okhg2mhI3xjgKBwAE/dmGLLgxZiXdOy484sNDa3jYQkLVD5CxZSZ+Rq2kFN61JirOdV58Gqx/UlfkJBIRHBSWOMhnR8c/c2vte9lW6Rl+IhgjxdyAqOPNGojGwrENARXh6j2n05U958FAhjAWq+Jy4wt6sEUB/P2e50zcGYusHbH9A/M3Sho2sxoxJNxeXYT5k2M13mHZChJBYX7TS8KebHHT3iqPOc3P1M+nFfWxujtVIGrpsoxWbsZerONs3XG7sW4z2XGOmItPxCR60wZBcrkNvxd/ukPsbeGjwlnJl15De6ugvMSS7Y/wcF6MtYixlSc1bhAhV6vgLOTnJsEBgW6I8v1sN5IsjXeVgv8Rkl4FcG4Jqv8jd/a6+Ez/iCWuyvJawuinDh9pY72pJmIv7pX8babnr8dJ+g0osx3YWzDYL7UkdRFQdyBUKkfnI/fsxnPEoYIeOObVCI19qbqxjUZtl++xgM1wsC/aSeNBaT/l/GCXxN/rU0Y0ZBIhYS1pipX+tRkQOVQD8QKciUM9h4ApaBp+eim/BCiHm9+zjy4G8xm8IsICeHYObyuwF6Qq3SPHTBKZqCbSG2QP2bdvZow06raRc3Morj8Xd/Sh00Uv5virw7WlTCaBgKo=
+    properties :
+     x : 187
+     y : 303
+     width : 160
+     height : 48
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         Close
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : MM_Preview
+    identifier : 0x23e4c4b62056b9a3
+    internal_properties : CAAAAAgAAAAEh8COG0/pb1USGNFsWk4Hx655DoHDo5nKb/1WFVZIJHOnL0uyQpfWiUjmbMsKWowYauVEObCy0OfTCjJ6rvwFg17fJJlrHilQuGbFY82XJF17Z6KxkKwCvIrDqVkJirdVOCGTMNBgYBBTwncx6IDzpM4pNBvyv0nJ3hEWsQ94GqgjNvDlrl1EKAksoCEZuvmlW5MtAtjMawBx/5SEz9Ovrfv3RMutm5zhr8Zk+blQiPXw3n/81yp5Z3xcdi4pXBTHPc0b2W/YvVrlqpl5UoVQu5aG0SL35HQ9DXnjC7j5f4ZmOQz4lA7DmFQXQpATlOxw8Gm3X/pRPBJy+mCSuySYMHZEOko3ELLF7FgI+TRB53cg7ahA7Lo4bLzecNVWaVTF6e6ENwHvvc7dibyPYY3+IwCmtzy+Gkcs3kJoRrZJV5GX0G8e8ugxZnjg1q7mnchwkVah7SIpIQcxNWZO90Ux4A==
+    properties :
+     width : 360
+     height : 288
+    type : 39
+    code_elements :
+     type_code : 97
+     p_codes :
+      -
+        type : 164
+        enabled : false
+      -
+        type : 163
+        enabled : false
+  -
+    name : BTN_RecordVideoAgain
+    identifier : 0x23e4c4b62057b9a3
+    internal_properties : CAAAAAgAAADiSZweNizBaRC9l3H56mWisFmPlLZRbCgyhkgwQlg0VMXDIWtJS5hMEr1T4l3eO7ym/zMkALD/UTwfOup0z22hBhCgdCTmB2wAE+rBlqWReXBfIiJs9BtxOtlR4pCKejBhw23B3vQrJjhqZ0r4w4zqUIylLcifywe2MqdXDSillK4RsC5e4+VtDW5tVAy1FvNyWc9daLWanB68So5j+DKlR0H21WDUQ7DzgToYZq20QV1WC6uwNbvGSZElNHmUPJ3upqN17sWlGcK7sniBbRRfoEP5vHuQetj4uMtmbIvj5DAb/cOKc4VNJnVFhPd2BmexEujoExVQZNT5+rMeZploiCbuelnowr6HssPmDTT5wT1m62f7x2YX5UlNx+MqV9JEu10eM59FJc+KiyWNfu7XVeTLyNV9h/Yu/Q/xqq/fr7d21zJyVau/pkMLvnJ5bTJbP7rL2Lj4GEnzep95F5Qu4ety8MaJJAK06b/naY9VyNJUZY4NB3aWR4EF5lRhRhsUMcUwu32wHNX4bH9gLub5Egh8HlOzkbFGS7E0X2QMLDHqeyPSXpPDRwFy+AuyFHn1CDlfpBF1cwgghhScyOcCdOWWu1AM0ychItNITqH/JNMhyuUoXCEOyXG9/s7OrOwn2jS9g6HaKtR1TKrsYlRV/kDu1hvKN3i6WBWETnyClUyewnYHLiO3kIxGDdpG1rQ0qKK8YKKiA5iia6DUZb/3SPLhospA3rA92x/mZbC+yrLJ5NlKzl/jVQbFl00bj/p5yI4Kt/ZH+GKe3vWZs+PebjPx1068u+9H8b7xQTfMoqk8uS3/Urkem6+HhhOSP5c1qE94
+    properties :
+     x : 14
+     y : 303
+     width : 160
+     height : 48
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         // Stops the video
+         MultimediaStop(MM_Preview)
+         // Ignores the video that has been recorded
+         fDelete(gsPath)
+         gsPath = ""
+         MyWindow.Plane =  PLAN_Video_Recording
+         // Refreshes the display
+         RequestRefreshUI()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : IMG_Preview
+    identifier : 0x23e4c4b62058b9a3
+    internal_properties : CAAAAAgAAADb/UCZKacrV5EnexJVaUFANctt78kRvbW0g/CWQ7urSp6h9M8xITwJY5BZR1RV+CVkeDqo1avcXGYUEe5MvgLZlKexQocOOX5CkoRvIqdzMobrzvRZGnU++99ICXRV73ssV9ww1aMboJfdpceaZY5Uxhigq90ah6VSwRtyeesUdqk2mmQBB7tK0VFzt7iv5byqV7g1vfU2D+MlLn3VWAU+AxbI8BFzaPjNU1mhic0/5Kvwazgy3yyXjGu9c2dIWHjSetcV7ohVD8z4XqgBd3EIKL2IUQtkuBHPBnBm8vLIJf0rvj7rng8djaOflVLIyk4Fsq3XtnL9ySLiJUoL5xLe3SVhA8wXEtaHrXcFz8J4BDp4FmtJ8ilIFy1uoitnIbVsdAHBgme300+FSq3fyDZ5OeLY1UP498iCCLXErv3PjLUYg//pOUvy6lDAeclwuwQGvrN8HEWn4ilXUh2YKO5/znVd+6iNt9YZ274I6k2JDqvU7T7ThtABfWP852qibKF4xxuYbS4ByobLQMZ/7JiiKsGKVZ1qmnWpvdaLPvPaZ8tYKVp9Ys1U13MQtCRz8LVXqtNgWbpYF1wVaAykjW0iBnUygprScYENlj1zgpujqjmYsQMGokqfv8s8HrSFBGWRE/arfu8nmpe40DIIPr8+ENdtIIzC3jCfuZJzWTo8+oIXVUPLdYIWIIAi6Q7UAesaXfkLoxPs6JAW4SN6djdDzVNbgJR+A/aCit51wOBwpsCXtDj3o5YPCFXezVXZiW1DpUDAncIO7zKZj/Hl5E1maxTJyrOZeLP3MqKkwA==
+    properties :
+     width : 360
+     height : 288
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : BTN_Zoom100
+    identifier : 0x23e4c4b6205bb9a3
+    internal_properties : CAAAAAgAAAC48YUtlZ3becLtSJfRCi+eNDwOyRfPeijUa1YZHfDRFSQrVT/SCrT+rOiEz5qg0XWNNF9Dl/MEOL5XoBC0/U8Z331wKB98RtRRmA1MI8+udN0bpaB1rHZJJd+GMdju5XbcGwYXAr4HgARFHiv0HyrPd1KJZgOj/NB4C5DIW2MXbnT+Bz0kH2N/Da/8bmSrW8LrhpaUlMgOOck9tdJX46awUfW4HNczs67Mm2KoNCzFr+dHCjBBq7ca3joVaN/kU0OgPw/hWNAfH2v3hCz+6XNTZkBDKSG+X6EoDHdCufBt1rZojGwqNtZl7q7O2Kk5kBU5sz68/V6IPp3etNTnSWCdTGnuZJgmlL81pKPF6pNaTErAHtztNLKWtBQplI8wbZZGcXn6AUFnhdGwWi+nJJCNBETU190qQVAxie8ZUiZ8i+iw9yZkTTkX67kUdZQLceIzetHEXpgT4uI1zjeS04Gidv8dEUurSjM6uIh05uRSMHxSGabU+0DSDkE5fO+ve0axgxmo1LEw2/v9hQ79xFvtwTJdOTfMFVqSo97jjfUcJ5cRlY4vCdVfuYt6tWeXKQZJ6gq6kcGopQ4olBfIRnR9ShVCAflDkz6icxsl8NGZBus1scYygA/tq6QoRKDhDmwW1avPHH+8JeIqXYKX1zzrKyWPPN3GDDFVSeSA3dx724CM2CVEHDuLoPj61Xn10IpF4ixWN34gmW08shQK/NKLDa0ri7zprF6eSZrnxGyzwoD8XgXACdu+c/UjmwfkRFl26zV/2AIX4O1Lsj7nxTXaXReCf1i5QoPrM6U+T3P6jFzxHqa068N6YwPSVqi9DsCFr7XAp7fryf7vjemdliFN5m1+WAZVd5m+awewpkmwY+ZJu3YCXvpvKYSBwHm1xKFI8/IqfHd2s6qjQjaaweyfTj/qPzHdjb16WAVyPBYCIVLPLuA5W7hZ9ofRyabA11LmjgJYbj/zZn+4kemBtc8=
+    properties :
+     x : 100
+     y : 222
+     width : 48
+     height : 48
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAACpi8+TwfJtUiswe96Ay0hJxxH0QEgxc5+blpfMJKH33yWQhlQjLGGx3A9/AJyq7Q7b7nJsIHiUVlQLug+GWigC+1P2ZQPuYtL6nPQOPExyuEkL+t3ApWBRhi53DhVzwXKjl+GzEATz5XH0FU4=
+        code : |1+
+         global
+         	// The button text contains the desired zoom value
+         	let rButtonZoomValue = Val(MyControl..Caption)
+         	dbgAssert(rButtonZoomValue>0.0, "The text must indicate a positive zoom value")
+         	if rButtonZoomValue<=0.0 then return
+         	
+         	// Adds the process to mark the button as pressed if the zoom value matches the current zoom
+         	local 
+         	ZoomControl is Control <- MyControl
+         	MyWindow..Process[trtRequestRefresh]+=RequestRefreshUI_ZoomButton
+         	INTERNAL PROCEDURE RequestRefreshUI_ZoomButton()
+         		// Haptic feedback
+         		HapticFeedback()
+         		// The button will be pressed if the zoom value matches its value
+         		ZoomControl..Pushed = (CAM_Capture.Zoom=rButtonZoomValue)
+         	end
+        type : 14
+      -
+        code : |1+
+         // Changes the zoom
+         ModifyZoom(rButtonZoomValue)
+         RequestRefreshUI()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Zoom200
+    identifier : 0x23e4c4b6205cb9a3
+    internal_properties : CAAAAAgAAADvvidjtctM60Als0e94sGepZGtH1HfSv1eiNNshyn3BGsD3PjdknFsCJuuTKlcsFaP6M+cKqK+89rQVOPJDJs7nZsUqVNVkAoLz+XRQiAck002Lk0h3XgvJnq+2mcp7s668d49w1ALzglVXLT1LC7R65e1wGJZaUNLnV9pBsMHs+LDLkdOrdfx9quCXylzEdKVkncDLps4pz7em0fur6esOrRjK+rGkjxvqFgXd99iuf2KoBi9O+IIQMSKbh9wHvaF3flOGgAYUE8nWjUCiLXuLhRbPSCLRcL4Ezaica8rw6R88q/oeSWofouyBxJcILqk7bEQA6r5kKRQ1pE815+Qgx/q4wbMLRY0G3s70cXPlXVOfptf2ctyqUP4Hhatxio2A1VX2gJwkn70JoyrrfUpEFA4rEmhQeLNfIOKq9/JnVFzE/t34p4+83wIMKQWSR3//J6biSDHylnjUHfFdnyqilWrmDZKHec2QRYDUV6yePNFcJp395djZ+GNnVk8/ZvcbTW5P4m2nHntm9OxhLDWCURyOv2cXpEr2GtIigcWJpylKrIjQwtyMSpnTsQmor4T3KayV+kVUsp7M367KBKpgfc0ieldthD8t4lKVLYboKTL+Nc/10VILRR/8zEw+UfeYZqqk0kAtQH2odwZbEsZEBfSCRKem3VOFIGZ7LT/pXpvljLlYdEfqpqIxeZCYXQPZ3F3S3ol8qdsMpIapLkhwg0g4RXa82nL67YI9boCUvFMo8h3ZdcPQlsfvFjSAp6xCY+ZclwOkByXzsaiyeXyj1AGy8hCGj8s8+D3vpLUJvOVSScJr1bAezx9qGzJGIjsOu99lPYyd7DJsfYWZG/8PfvNgXhZFnx+L2ljWz4bQhinghUE5rqQCznYYjh925S9SzD+XjNMUSmQavhfrj3+AYwsHl5mtKZ0GWTaySEiHGnS85DTHNtYKPByhWQzt3SvOVoTDok=
+    properties :
+     x : 156
+     y : 222
+     width : 48
+     height : 48
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAACpi8+TwfJtUiswe96Ay0hJxxH0QEgxc5+blpfMJKH33yWQhlQjLGGx3A9/AJyq7Q7b7nJsIHiUVlQLug+GWigC+1P2ZQPuYtL6nPQOPExyuEkL+t3ApWBRhi53DhVzwXKjl+GzEATz5XH0FU4=
+        code : |1+
+         global
+         	// The button text contains the desired zoom value
+         	let rButtonZoomValue = Val(MyControl..Caption)
+         	dbgAssert(rButtonZoomValue>0.0, "The text must indicate a positive zoom value")
+         	if rButtonZoomValue<=0.0 then return
+         
+         // Adds the process to mark the button as pressed if the zoom value matches the current zoom
+         local 
+         	ZoomControl is Control <- MyControl
+         	MyWindow..Process[trtRequestRefresh]+=RequestRefreshUI_ZoomButton
+         	INTERNAL PROCEDURE RequestRefreshUI_ZoomButton()
+         		// Haptic feedback
+         		HapticFeedback()
+         		// The button will be pressed if the zoom value matches its value
+         		ZoomControl..Pushed = (CAM_Capture.Zoom=rButtonZoomValue)
+         	end
+        type : 14
+      -
+        code : |1-
+         // Changes the zoom
+         ModifyZoom(rButtonZoomValue)
+         RequestRefreshUI()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Zoom400
+    identifier : 0x23e4c4b6205db9a3
+    internal_properties : CAAAAAgAAAC0D2JOcJLX17SZktZyLQzxl/7+qvAWG+bv8uoLlp/ngUcugpz1O8EQ7JAnusRQ6SNJWRvTMBzEEj+eeMK/8TXohDj91oXgg929uoVbJ+8eEVWO7NX0e/k/5EPJbEXdzaRJFlehsBaHClXwe7vz2B59o4k70bJS2uMfBbX7e/zD0zvX+T9B4wOq4Ny4hCTjHZrf8Ek3NPJJLXLIW465gFOFZRMrXgOonx6PTDPKLZhQwvmr+jfqeMGehNxo6iIb44AlGl/uMWO2aBVX20uQ4lKo0Wwtngk4DSYKrNl/K1TfKDzSb1FIVZuQV361+0XMvW9NC2l0zajsyVyXpR6xjUWE1HJhBejPIRQQtgyGGpxZT9rdr5CnFIFFAACzPMSu4JR7XwsOUKS6jhj0xJLgO8XU/xUuz5CRIRt5LbrkZL5kL5LYxmJCY3QOwFcTBBsmKKPSt0eMMr2YXsmtmA3yy1JQ8w/h054B3tjyI+nqOeNVvrGTE6lAB4n4FZ0wj2YHN7EhF3LDVjdCv2mMFEx4YP8Hf1wPAmSOJjDKtQyJ/GxdLM5iAGaawQWffCqUaM93S0zWZigVeYbYjHVeZoJZsLQHu1FAZG0qfl/c7bhD0Dw2LhkLuodV+5qaFujQlgAUS/XhonVHq8NsmnhtVKJgCyQFhj9HOQwiqLRqwtnyNKw/uFuoYJ/HqZi/oAjS182zCAu7mkjpH4jZqyt1cG7DFK6E2uzun7ykDdsiHTyQ6vZtWCppj7LVynO6LQVe2YlUBv0X3/VaRnyimvuJqKYDlyYGGC9xZJpwoaOHvYbfAc91Oso2FK5aoxGuqTQ0OtNtOiq3u0KG27TxSZ7XrwnUNqSCWbTXprQ8jXLf1Ls1HnazRqNkjbQAQwZtxP4JO3IRD9+JiMoVG8kE8E270gqug4Q0wjJ9BtzmDI2obItxbUu455uhL/yW6aDKwbRsncrKf4ifbUJVedAn
+    properties :
+     x : 212
+     y : 222
+     width : 48
+     height : 48
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAACpi8+TwfJtUiswe96Ay0hJxxH0QEgxc5+blpfMJKH33yWQhlQjLGGx3A9/AJyq7Q7b7nJsIHiUVlQLug+GWigC+1P2ZQPuYtL6nPQOPExyuEkL+t3ApWBRhi53DhVzwXKjl+GzEATz5XH0FU4=
+        code : |1+
+         global
+         	// The button text contains the desired zoom value
+         	let rButtonZoomValue = Val(MyControl..Caption)
+         	dbgAssert(rButtonZoomValue>0.0, "The text must indicate a positive zoom value")
+         	if rButtonZoomValue<=0.0 then return
+         
+         // Adds the process to mark the button as pressed if the zoom value matches the current zoom
+         local 
+         	ZoomControl is Control <- MyControl
+         	MyWindow..Process[trtRequestRefresh]+=RequestRefreshUI_ZoomButton
+         	INTERNAL PROCEDURE RequestRefreshUI_ZoomButton()
+         		// Haptic feedback
+         		HapticFeedback()
+         		// The button will be pressed if the zoom value matches its value
+         		ZoomControl..Pushed = (CAM_Capture.Zoom=rButtonZoomValue)
+         	end
+        type : 14
+      -
+        code : |1-
+         // Changes the zoom
+         ModifyZoom(rButtonZoomValue)
+         RequestRefreshUI()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : CAM_Capture
+    identifier : 0x23e4c4b6204cb9a3
+    internal_properties : CAAAAAgAAAALEO+xXoEUFWvzFeqy9vOv2IfFIZvwDHd3Gkf8W7ZGt4bRZb4dGKpdJWZ9rhtAe/+U13wG7VxZojIyJXsen6JAsmfVeE71X+6bVrBhyTPMuk1DH940FYhQ1Yq4JXZyjPioIm5SlMOBXmNvCfFQrlhgeQ0WY8KoGGRj8w5lYVoxNRy2Tk0Zieye1876pWnh0Bd+5tRNqR8+qZqqD4f03QN12fsVRcq+xO/nJcF+JSy0sKBO/0rTASaa8FR1Ynb95nemwPBV2zus+WXEyP5giBsiA2h+qZ4uSgCsU7sHMIJ1SIwTwAHw2hrEQejW1D7Q4mtjgN0a2/ZISMVmGsHmoO0XIOjkubtoD0YyEF1hRB3tQfHVogcsqGFOzNZDsZJ5kDhBs29PRl3/8FA4ImONdzZ+FJiGN2B4Y3Zyt53GoCXYkkNCRykPEc1El7DPXMQ9GkRlYQbx
+    properties :
+     width : 360
+     height : 360
+    type : 24
+    code_elements :
+     type_code : 37
+     p_codes :
+      -
+        code : |1+
+         // Refreshes the UI with the new zoom
+         ModifyZoom(Round(CAM_Capture.Zoom,1))
+         RequestRefreshUI()
+        type : 297
+      -
+        type : 237
+        enabled : false
+  -
+    name : IMG_FlashOff
+    identifier : 0x23e4c4b6205eb9a3
+    internal_properties : CAAAAAgAAABUDSqJIZnL2r7RODT21C6OYiexGbuDGdH6K7o5GxexPCnYddUYDo+/qKe8EScC6LEvm8TEEVLdIbeyK9YiM8N6gHHzXtjRCGs1GjbYIe11rnIy8Wlyj+LGLfHK9mltM83hvSOPmixHS1zh/9+reSDn+UwhG5iHbfmBP1VJgbfoyvVJlLjP3UfrbPAGSZ5m5CsN7P4Appu1NxDSzcKbbucvL7sao2WSXlvu426CfVyDV+wknT33faRm41bsne0rd9AOg38FhlRaYDFpMhr9nXTkjFHGznPO7k4NHLxDaOuc+yjcnag/kWBT9fSaEp4JON4iQX/S1g1L5bb9gPd/oGxy1j5ij1fSTY9PH8eLAPEs3eVIWq/PVF8eB62xzrUoJYEP7CNSigY1tzJTNeXUd7/60tgrUOLfg29jRqzneIpkT+nOwaDzNaxlK5Q66Ohh5PiPREYkBnLGJfGjMwflMExoB7OWyJrNvddfWb73eQTvgj00hJRBGVoAI2k+CjoM8HzdZ99tE6ZOttviqT0bA2itNmmVQY/YerChfUnjU/NvjYZmrrrK+aKSR86td0pJ261/zZxMlXweTTtlr+gd2E2pfUTGbw6m5sBbX2tPqwGfIbfurHORFlcE9FYj54g0pgE4lcn4DyIXTD211ECWC+Mv4Huze0yFgTArxMHzxc5kUBhs1GpUcW4gIQTqr0eYYyrusDx0ToUpGdqd1W01+9nDek0q7/Q1Gq/LL0ByNehEYpU5DueBYeNL8zeSJhcNB/bYeUXUT3u/kqDJmB8TZnpDHI8INk31Hs0//5Ax5zhFo+FINtL9Cg9nOUW8/J5pL6PN++5cH3fUkp12Q30TuN2SLtl5/uiu5D+TB2FI6i/mKIvoUWTvOoyFWr8WUq0c4KdNkxL36EpwZtxEcFT9mOAcCedR3BcfB2JJ03XU6tJe9dqVO7KrMA==
+    properties :
+     x : -225
+     width : 32
+     height : 32
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        type : 18
+        enabled : false
+  -
+    name : IMG_FlashOn
+    identifier : 0x23e4c4b6205fb9a3
+    internal_properties : CAAAAAgAAAD1EGmVjwfzCv56irCkS1MRMB4/oWVY+1KVmanHiHnHJ3PJGKLn+as0Q0fL1G2DIS0RWCJTl2KIBJg7o6hezuKg7SNLNY+xI4mAgc12xx74MBP+DVypOSPp8NLcc9ZbHU3E26uztDUlIitU5a07+8tuBorK+5MYwB457Sj/MxIJDxIRUTqpAqcf4xxxOJwMDoGr66e3SlKqqcWd/tVui03LTlz4WAUK0DcCuG70ybTaQxxGIw68itSlEEcV1CRB1bESrzjDtc4d+1MHz7O9QsFcu2oegeSKEsSN9GAt9IchhxxlvZE/cyx5/CCtumVrkDapqiM8Jrvj916Kap7fD5H6EZr8aVBEG7QraFSDY9BulmSupZTgvtxwN18ihfIPQh6fK+gA0f3QSc+MNPazSzZJ317RCA5/3pNWWarso2iTh/eaPYE7l5B2HyzDJmNZawCfof2ClhefR7G3CqOSeULdRtMWirEizXBBgEWRqHqGnvENaRoxGyq5uSerzm2NykoANwYi7r26XfFLAoFutTPBQb0sLg70vQBTPWihm6axaQ8hz5l+u+XMaJBvxTmGAkfqIbf9rUjMhLm2EOYU/gVoWS/S33l1iabaAJ745NbaRedvS7s4VoCf0LJ5CyYZMMUdp0xSPeCb6vxiztuP+UE0Zk+kouM09JzRWHzZLREWWdM/VHDHhVwtbxj/YOd8zu5dUye5jXabEHtcaAsyX1WGMuLnsasm5gWZmsl0Nd7oeue/RElPrwh47HmrvBEwfJU2XLhA8SczUHVupdHdMzSt+3si0PofkMM8yvPZTKtegUrQRebVR+fdA5Mf/0ExYcwt03qEbx5Pq3qllJi4XBPHHQ7efjVsG4lIq610S74b29k6pFXUlWPIYvMLMh5fMa+HxLKwfRwnA5L278wSlt0o+c0rP6qtTKPdCrxZolji
+    properties :
+     x : -188
+     width : 32
+     height : 32
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        type : 18
+        enabled : false
+  -
+    name : IMG_FlashAuto
+    identifier : 0x23e4c4b62060b9a3
+    internal_properties : CAAAAAgAAAAEDrb66ybI5Djimd0tvXubmsS0qBGfdvzv3YCvJLxVFhVbEqo+srLm0uHHWAgi5cxsAbdNANph9SngywcoS9XC1prTERJQ9481BRAiCrnhL1PJ6vcd4CLT2+EZmhP5WqXoWC+4U0B3wW1LHa/dX1hVrjrZdJVK02SMpnM0oioiJAetPf8t8yxBTMbc819dmPi7FPwbOCaBeegQCnPc1iqDRs4Kt0l/gbOQRE0xrVPgk6fWsmxKWq1VyQ85jMT9T1vRg6R2/rcOYmZTp7VvjG3ewN4tdgDV3pd9uCdyBrZ48mjoEbhmdEO+XMOlZOvJL07AZuSWo/vCCCiHdO40z0nwME1oL3QIVcZtRunv5k080/fFsEXLrYZr4QSERH81CFDeVmxaYcSJZqPHB9qxEb/QYBnSYgi6GkJ9XCJ3q3Kpktk1k9humJ13Xof3tl1biL/fzTQfyWhVO4yJ1EEbNtOETCtr2SUQwNl2mgTmYfogyfo44RmOkxmYxpQQMeMKN+5Po6tkERupWH5PODMogJsQFp6YdePRdq5T8Jzlzt7eVlqgZBJ93rUo3A3sL/b+T7bvb9LLqWZGmPoXxndYeWuPWOMocjIyskJg0uTFaJzMBnhERqV+W7iraZBq51/jBhioNln93J7dozHKDe4zCxJmdFYP0oYX4OWSnqiQituJAzqgpOecaEt0Lduj9nfYENMwQkX6HKrCgF/RW5X18AGAF9gWx9FDygWFugzdVMVnRc9EH/bR2031Z1aXKAK/lGqpP9WY34huvr/X6PXb3NfwwlapcUFkNx2RprRXExfBWVDkwiM0oPBU2k987tcRrWpIrjIe8yXYm0pcudy9tRkExr0lTBBilboYxmzeIdPjO5khSWusYxF4kBguZUI7H2+xJ5dkBOyx1NMt5Q==
+    properties :
+     x : -153
+     width : 32
+     height : 32
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        type : 18
+        enabled : false
+  -
+    name : STC_ZOOM
+    identifier : 0x23e4c4b62061b9a3
+    internal_properties : CAAAAAgAAABqjZzT8Yj0gw4nWat0lDYWB/B+Tyv2mPuViI4oXXyW9vm1grnr2vsBXo86ntUHD5JAAwwPQ/oJnuHacimlKNINJoqBzWF4MUKiPlg+ScUjYi0aSmhPxP5XWI8PzoCNwqTFeW9O2XEU7WKyh+wNwwv47cm2LXT+NBXsYBG904TnNFQ0fA/GPk/8vLxygsuz5QSmGi/WCLLgd5cGBNUk1dpY1rZ6kRBfMqm+IcrXI51ZPtJryHA4o0D893jhC4ADXmOqaTa9YtDWb1cvZEQBMvy7/uSAZdvfoJHF+pUgRIKk4+SOTgrxLQV/hUfYZW0S+4wDvmkU2qFn9DXOzbHe0bXh359ijw7lxK72ZmopWTnb+GcQjFbsJrN4FSSPmC3bDAPxXAz1ilqrZMEkNdkriIEW8jQwgozMVyE0dE2pWiK24huQoZ80iDck+Oaprx05v9veskAfvNacvSCd0MFdyMioeu/5rt9l6GlG2vuQvrjJ1QacxLGnWDlcwd8FUdd7eJFHzGdSoSRv
+    properties :
+     x : 120
+     y : 188
+     width : 120
+     height : 23
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         global
+         	// Timer to make the text invisible
+         	gnInvisibleTimer is int	
+         
+         local
+         	// Initial zoom value
+         	FormatZoomText(CAM_Capture.Zoom, False)
+        type : 14
+     procedures :
+      -
+        name : FormatZoomText
+        internal_properties : CAAAAAgAAADaa/V/OxRssS4Cz7jPSUvuaDHW1cr3mTw1G1qUkAGQd7bD8fE3u/GkabZreVhw1insOwVgOmStDFuLGOKLKhWIDesPuNwy2+7r5CqVx1qjKM9MByrBFOO4+hQBol8yswKnJJ4lhkvq05SW/uUB
+        procedure_id : 1433486867399031203
+        type_code : 14
+        code : |1+
+         // Applies the zoom in the Camera control and shows the zoom text if the zoom value is different from the initial value
+         procedure FormatZoomText(rZoom, local bMakeVisibleIfNecessary=True)
+         // Checks if the value has changed
+         let sNewZoomText = StringBuild(<§R11eab9cc1614bbac¤en-GB¤%1x§>, Round(rZoom,1))
+         // If the value has changed, show zoom
+         if bMakeVisibleIfNecessary _and_ sNewZoomText=MyControl..Caption then
+         	bMakeVisibleIfNecessary=False
+         end
+         // Updates the text
+         MyControl..Caption=sNewZoomText
+         // if the text was invisible and must be made visible, do it immediately
+         if bMakeVisibleIfNecessary then
+         	MyControl..VisibleWithAnimation=True
+         	if gnInvisibleTimer<>0 then 
+         		EndTimerSys(gnInvisibleTimer)
+         	end
+         	gnInvisibleTimer=TimerSys(HideAfterTimeout, 1 s)
+         end
+         
+         // Hides the control after a given time if no other zoom has been applied
+         INTERNAL PROCEDURE HideAfterTimeout()
+         	EndTimerSys(gnInvisibleTimer)
+         	gnInvisibleTimer=0
+         	MyControl..VisibleWithAnimation=False
+         end
+        type : 458752
+     procedure_templates : []
+     property_templates : []
+  -
+    name : STC_Bckgrd
+    identifier : 0x23e4c4b6204bb9a3
+    internal_properties : CAAAAAgAAAB/kCd63eMd30qkg/w+KvTKTsNdlM53Kwc8g/bJliZjHPXHUlUZisMwC4rafbXr/mC/DUNzwc1NcJPWPdcLiAl2/TbsriNpWeuEv4f3ym1ZA7UzHZQlY+uwXmnkRvsS+HrxAC6HgJUZj/NakFHEA5OlnllQdMAXjHm/FoxzJitrlH2e8bubBTK9Q3HkVtvXgZDKZGYFhWQphVYcF1dQe1TdFheosX6rzWvm7zrRJcXmy7vcRfzK/a/rFjl5Xt6JNz+1B9m27sosYE2kH+bdund06G9kYsjbCoHmfYmmgufDguaG/6YlUnYN5B62yTX8CiWme5swnjJh/V49uldebdSMBfTTQNm2nZm9Adjv4MuoSTkiaRhWSZFvdF6wRbAxr4pE1GLzq5gHOKFSKI0uM5UGXnyDQ8vomtV8fq9MNmKnjtJ6LuxY
+    properties :
+     width : 360
+     height : 360
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : IMG_Close
+    identifier : 0x23e4c4b62062b9a3
+    internal_properties : CAAAAAgAAAARuuSqdrwSv4av7hxhdMyiRXB+U1Szc71wKvVwyumm70wDsqTPycq2hKFoT8qEID1mp+dycn98w9RCvFzUs+SxVeK6fIK0N9i0LMk4pg2oPadn+lVukOH2ffIvyG+CqJpioAczft8Paze19gxfQE5q17r5MXT5yMjC+mB8SDv4MseZRm4T/EqRcT+5Oh5UjQytQoblhriHnzIsOjOHZeM6/aQy2ywrr3g/KakdTbs78KHfItFmr9myGN6PSU5b0ZAUptDtSzKkRDzXr6zLCGuiP2vm81g3Fe91/zVw+sSqq2FlKfxoDhEI3yDp+PCO4SLeazTsYOOORxbkdD7Sh4lc/nohb9m/bdP3SPVA7yMsaohKOowe9TM4hTccU3wtsF/UzRHvmdXNVvjfsYh64C4XoaekPSyEQp2dtNGXGnuAWLffwa1eQTehRvFwRkLctpWmUlN/0fchFylC0GaCCGTNaSuv73Enm7vVioAgK2QT/ZtU/vl8G6FxHxHL8g6TQRD8E+k+qvJUTRzAPV94RZ3nOdGf2qva+vH60HPb5oDudHIL4QpF1Wa3OvGo46nI3lovXzR64/zoUIKWsq+dGQZ5nBVqcFCyo/8fV5askhu5MWQP/KWsCWg8A7lxC9DEFwsGuHEO7uUtFflxzML0MsRAMwz2h4Byds3pSjmy7tXpeuOF/gAZ84jHHycZpCjPHjoSCXG3x1QXZ+M4ksjMBdsn9VTlKP8xL/E2GWAUVn5BBM5pGe64WBbwpmp8oYJhVFkIFVWwsAv4HFsRCJxR2IsSUpiXWo+Xx08gWEy8YQ+YI1MjbvXMkJ5rxJf5elbOHe8ivett7vU=
+    properties :
+     x : 32
+     y : 32
+     width : 32
+     height : 32
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1-
+         Close
+        type : 18
+ menu :
+  name : _Menu
+  identifier : 0x29f8144500a4e5ba
+  internal_properties : CAAAAAgAAADgMVTORwj2Mt8z/R5WRL0mTVIMDO11ij5YdBwcO3ZAw8tWdEBL95DgWGGgMGBRKql5dANp5Vg/qpNyJvJQ8sIrr6GzC+masJIwyV5P7DpW0go2kGsf4EvdW1eqlu6V7I5EHVrMjd02cTaXwP0dbd1DSbdsd/Wxk0ScMGI7Z0eDsGOMLRfieoTYskOjcLtA7tgFoR24z+3d3zH3Bloaoqj6XKllvOzqHQUKs5ikiJtsiZpXF9leDIYykRzjnC4k4qQVjthAFpugw+diG+HfnEMv+L/rU3DRjlIiDq+0aeUP
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABKff4sxysR+9kg8GIJ708iDvb5GJxqytSUKL54fomJ9xlu42EWUFv/+en+BSQDmdB2krqVslwL/1eyQDVw8sffQk7lF3aDfZNzV/+zROsnKAy1jaSejRR5UgML
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      procedure MyWindow(local bAllowVideo = True)
+      
+      // Initializes the initial plane to be displayed
+      CAM_Capture.Camera=camBackCamera
+      CAM_Capture.Zoom=1
+      CAM_Capture.Flash=camFlashAuto
+      CAM_Capture.Torch=camTorchOff
+      MyWindow.Plane=PLAN_Photo_Capture
+      
+      // Displays the image to switch to video mode if available, or hides the image if video recording is not allowed
+      IMG_VideoMode.Visible = bAllowVideo
+      
+      // Identifier of the timer that periodically calls OnElapsedTime
+      gnTimerVideoElapsedTime is int = -1
+      
+      // Path of the image/video that will be generated
+      gsPath is string
+   -
+     code : |1+
+      // Initialize the UI on the 1st display
+      // Note: The different elements of the UI have automatically added internal procedures notified when RequestRefreshUI() was called
+      RequestRefreshUI()
+     type : 34
+   -
+     code : |1+
+      // Calculate the elapsed time in a video recording
+      dtStartRecording is datetime
+      
+      // Applies a format to the elapsed time if a video recording is in progress
+      if MyWindow.Plane = PLAN_Recording_in_progress then
+      	if gnTimerVideoElapsedTime = -1 then		
+      	 	// Formats the elapsed time for each timer call
+      	 	gnTimerVideoElapsedTime = TimerSys(OnElapsedTime,250 ms)
+      	 	INTERNAL PROCEDURE OnElapsedTime
+      	 		dtNow is datetime
+      	 		durationElapsed is duration = dtNow - dtStartRecording		
+      	 		STC_ElapsedTime = DurationToString(durationElapsed,"HH:MM:SS")
+      	 	end
+      	 	// 1st call to initialize the elapsed time
+      	 	OnElapsedTime()
+      	end	
+      // Stops calculating the elapsed time
+      else if gnTimerVideoElapsedTime>-1
+      	EndTimerSys(gnTimerVideoElapsedTime)
+      	gnTimerVideoElapsedTime = -1
+      end
+      
+      // if the flashlight is on and you quit video recording, turn off the flashlight
+      if CAM_Capture.Torch=camTorchOn _and_ MyWindow.Plane<>PLAN_Video_Recording _and_ MyWindow.Plane<>PLAN_Recording_in_progress  then
+      	CAM_Capture.Torch=camTorchOff
+      end
+      
+     type : 234
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      // Turns off the flashlight when the window is closed
+      CAM_Capture.Torch=camTorchOff
+      
+      // Returns the path of the captured image or video to the calling window 
+      return gsPath
+     type : 2
+  procedures :
+   -
+     name : TakePhoto
+     procedure_id : 1433486867398769059
+     type_code : 14
+     code : |1-
+      // Takes a photo from the Camera control
+      procedure TakePhoto()
+      
+      CameraPhoto(CAM_Capture, OnPhotoCapture)
+      INTERNAL PROCEDURE OnPhotoCapture(bOK, sPhotoPath)
+      	if not bOK then
+      		ToastDisplay(<§Rff00009b8fac5d7f¤en-GB¤Error taking the photo.§> + [CR] + ErrorInfo())
+      		return False
+      	end
+      	// Stores the path of the photo taken
+      	gsPath = sPhotoPath
+      	IMG_Preview=sPhotoPath
+      	MyWindow.Plane = PLAN_Photo_preview
+      	// Refreshes the display
+      	RequestRefreshUI()
+      	
+      	return True
+      end
+      
+      // Note: Here, it is possible to customize the display during the current photo capture
+     type : 458752
+   -
+     name : StartRecordingVideo
+     procedure_id : 1433486867398834595
+     type_code : 14
+     code : |1-
+      procedure StartRecordingVideo()
+      
+      // Starts recording a video from the Camera control
+      CameraVideoStart(CAM_Capture,OnEndVideoRecording)
+      
+      INTERNAL PROCEDURE OnEndVideoRecording(bOK, sVideoPath)
+      	if not bOK then
+      		ToastDisplay(<§Rff00019b8fae5d7f¤en-GB¤Error recording the video.§> + [CR] + ErrorInfo())
+      		return False
+      	end
+      	// Memorize the path of the video taken
+      	gsPath	= sVideoPath
+      	MM_Preview=gsPath
+      	MyWindow.Plane	= PLAN_Video_preview
+      	// Refreshes the display
+      	RequestRefreshUI()
+      	return True
+      end
+      
+      // Displays the current record
+      MyWindow.Plane = PLAN_Recording_in_progress
+      RequestRefreshUI()
+     type : 458752
+   -
+     name : ModifyZoom
+     procedure_id : 1433486867398900131
+     type_code : 14
+     code : |1+
+      procedure ModifyZoom(rButtonZoomValue)
+      
+      // Refresh UI when zoom is applied
+      if CAM_Capture.Zoom<>rButtonZoomValue then
+      	CAM_Capture.Zoom=rButtonZoomValue	
+      end
+      
+      STC_ZOOM.FormatZoomText(CAM_Capture.Zoom)
+     type : 458752
+   -
+     name : HapticFeedback
+     procedure_id : 1433486867398965667
+     type_code : 14
+     code : |1-
+      procedure HapticFeedback()
+      
+      // Sets a light vibration to indicate to the user that an action has been detected
+      <compile if TypeConfiguration=Android>
+      	VibrationTrigger(10 ms)
+      <end> 
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAAB6ragasMBWLfpsSyU19J6lAvYEqFWd1xYOjmHr1XHVZOVmechqLo1vKvfoAJhHeXL59P8BudVQfrBZ/U9vpjDz5RFibMKKm/84EA==
+  original_name : _11
+resources :
+ string_res :
+  identifier : 0x10c3253b43f2e76e
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+  strings :
+   -
+     text :
+      en-GB : Error taking the photo.
+     index : 0
+   -
+     text :
+      en-GB : Error recording the video.
+     index : 1
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

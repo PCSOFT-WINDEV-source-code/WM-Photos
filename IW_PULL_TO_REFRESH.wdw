@@ -1,0 +1,161 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : IW_PULL_TO_REFRESH
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : IW_PULL_TO_REFRESH
+ identifier : 0x23e4c4b82248c183
+ internal_properties : CAAAAAgAAAB9rSZ05kbY5IleaEq3o7U82LAhontSBxaifsiVjoSUx7b1RyVrosritvG1aU58TdFCkuBdZnP2VhF4XINbJsTR7z9zUm5LDR+EEMiue1JzcGxLaMsqtWeFZVPPHatWk2Q6AdKfYPdcmmBTi4WN6ysGKFE9eu140atnM6HwshvY6K0sVsUrf8UoJ8BaReXzk5lDzY/eAi8RjIkHAOOv5QzwDdY3qSdy/vTwkSW3DROW64J/vMA0ywSOoc8ajGPLFVdWRHUJZoaKJuXCwhh0RVm6QPMPJN4REZsyviViOhWlxTd7ALLGyMcsNYh2llKr0ViP6iKT6bmFsYaBVJGTsaW3+YLrw+ICrZZjTx3ZHa+JQUULR3sx/Igqz8SIMWYHbznAgp+xRAaLS7oPx9tTeKbmwT+GhdEQCBHNPq53AGaaMW1t+HN01TEtVkgJD2FgsTWBAgWLnK5uge4Ifocm71c3tkMfcWejrHQrlJREBi3blXs+BQahDfEgUW/FPwk+b4tMVaEqtsedNROiY6vM/B8QOuQkYLJBsijcRPwP3sTGGyUi/XxfftYeHS12C8me/xR60zYFoIYsZf5I5ozqx9eGMK9AKOjZtKA6HOwh7TyJkPH3ZdFNTwJBTtkCpDAZ6Sj+9RY754aRRLFcHX1Z3jPWOMgZajjHRYGj607Kiy6ISoWNp8E3KcV9EJZzV1jrxLCo2T2VmYagXZtjnNHJQlwLh7W0u5LQfofhO1dgXkjEHNdJjrWp/PDyYWFUdFgnCGWPqYanxYgQ7sOt3vg8vTb43Rb/1GY7k/RzDXlox0ethInoGvfGSi65wlKkKJqTKGcAgYC3da1Eqdpelipe
+ properties :
+  width : 384
+  height : 69
+ controls :
+  -
+    name : IW_PULL_TO_REFRESH
+    identifier : 0x23e4c4b82249c183
+    internal_properties : CAAAAAgAAACLG6X0pYH1RpUrI50sfNghNvpUCbunKfjbaDwNeWGW+WIgL6xQRofrySaRGFks3W0R0cKqNvxJuWhlfB+OhZSEJC6Pdx16CNzXDBmO5C45GroYa0KcpRjN1SaFmGlR+104Q34orrObVOTOPTx8vKTdm7L5zmgQYrEV8r1jYPN/q4SjgFGt+mZz1FDTYjxifLD2/DUxxATv1wQnstYZH059pFHPvmYMDfVlPAvvPgG2mqIalokpT5d8yYsoNrnXIDp+VveWBbfskBn0sZ8lmA4+3dkteqxDVF2AP/qX2rjt5/OJ/3DKsve6g+VrsE8Tdm+30xQZh/gaRUSVX6nTOpydQ0asCNfs16W/9w19YvQ4B0LHFW+Zu0pJrzjIS4Di/HiCC6KM4GSEFkOkz7MNz/sFf2DxOMZWuwNjcQQikF89xkT6IcbzNX6nuQuj6ZVqhKtXeBOiJbG1OVrfobwUjoWKSngzY2h6zdjcsTahLOlUt1E/n/7r1xA=
+    properties :
+     width : 384
+     height : 69
+    controls :
+     -
+       name : STC_WX_PULL_RELEASE
+       identifier : 0x23e4c4b8224ac183
+       internal_properties : CAAAAAgAAACu2zsdSnLvbdJkLZ7IXP11UsDLRPfyIDB8lfoy/4yT82DlZ2FDzit7IvaZ+q8raGzuqSXC+FYvtHA+HfQBRI2LKVKCsybRpp5pPNBTu/Jxk9NUiFX1fYiQjA+jA3P56r8MROFEZ7sBCs8n+b/HLsMzNJsx8A5nGtRCK/Xp/EtBpZi6x3RF7hfKwQOGDP/l0BRsYajpi5Z3WSc4mhkDz3mubV5cJHM4R2meub8rdoTnK+J0BGq9XKE35arU7XSeBUvthrr2zOj8H28TMWxRCV60mUQ14/sPB8wTQ78b/b3/YaCTcVvzoAULLcaPIIn0c/MWh2LX/GfxXL+5MQqkhmEauo/V6BL0CsDIDW5J+94d6AajwxJyXkXSNK1UsaEZ4MBMd0SI3RijiguF588kXTbS08O/bW2X0SqGqZHNq33WF5LqctJhXWcTXSgcyOU6n6A=
+       properties :
+        x : 132
+        y : 23
+        width : 200
+        height : 22
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : IMG_WX_ARROW
+       identifier : 0x23e4c4b8224bc183
+       internal_properties : CAAAAAgAAAAK5y00SLD8Uuza3oiqqd6sY5qAbjJf2dprX59YZ5XZ4CIIj63tZm0aekjrkoxuAr84cwP4M56tVicFBVSHqx31Tkrxy+Zu6mMNObmVD1JZE82RO07xUgt2nRh3pEshYDD++6Q8ZksRkHsYon/HQe5iiOkgF53ya5/kiE2CGg5m92o9WeK9jRSojRsBpuSO36vMXi3QsaFpBk8s7mDeAhOftTt2Mfpe5e2LLglvw2x5fz60RZkUdhvnPH4VBRqdMSLJJFl22pgVYsX+MmNBVJtQ43MsDfq4V8Zv0VOQISxi/gXqeGFvP1+FV7xtDlZQLhEZ4Oi73A+xW7pIrtmVeCgD7nLztgziKwe5s4kRZqrlZ+/ZeZF5qMt7BJn21Q1SeO+fACjZpeV9dZK96xIWA+NKDqnNaVdxAc0bnPLNKiQrftIX16E5UJrLfCyeFgb0WMlfpe9NWsaGwBnoH/RgppFQ6WvnzeJBhyZntLJwWgr+pjPz8XmOQqjx0Ni1+FKj2pC6Ns1ehVSGUiKoOn/iqfwE+KYq0VzFmZhLYrzm3bXuYDmDwP97R25eAkHVqANYfVZtOxC7Yg8l5iXEQJ6FhluJ1d1BXJ4F7kT2Sq7JoAF2jowottNyyx+4uGzdQjjsNehhs4F6tgE3bbsiIMGc8cdCDk279O4H0Q3RnQr5wuCNZUY8MNbY5Dl8oAQN5nkDszXXeHe9t3lSGJ0iaDE7an6tRQlfMVu6zo9e+laKStTvaQ/yzqTTqFtLMmO9kJ8HIJQ/p7SVvKmhacj0/8XxLicfl1SoZdExABNMK3J+R1AIJNJw5iQNfKVv1chcsVT84E57kRADjq8xayI5cdgIBQIa4mifbMfsl8/Umfhncp0IweGQ+k7FmMLSSIRMJNpAJEaGe3b0QNFT86w6rz839VsSSW5LswM3Vc2lhsOzoLEWKr+HyWuLawMDWKFbyNMNTUW3/BFBhDeLokL9CQ==
+       properties :
+        x : 94
+        y : 16
+        width : 36
+        height : 36
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+     -
+       name : STC_WX_REFRESH
+       identifier : 0x23e4c4b8224cc183
+       internal_properties : CAAAAAgAAADP0zDXBZfZ7xtnvSuLBtdAN6VY5mTqIPQjjxy1srJgVEwm4LZfkr6YvxesdSX2aSYskGntBFRvAAcI+ZbpbByymAAlBUNd1fWGm6N0cirFS7c04R76nO2ZJDV1lAzRICfi9k5tc5yNFgLvJ9FMTpg6OuDJWjO0juf3wqwd0cGvoFDX5xkgV3iiwrLXYyE/rgjHhI24Gy8YdIhlgm/QKmdhbPVQm40t72j6qmYuzcBb28YdL5ro1VdTNb/KEUJCZH6COlyryV81BNIRx0Eo1X0jaeJ11ALdXOPYNtghj+Q3RM8Bqj6CWN0mHDAgsPqL2Q0c06ismKXc+tSSmL90Il0Ky6rUimli+opBByMrn8fUBRM9kNIutC+nrYA/4XbjspKYfU4sda8GXQ3y0fL6QBHxI4A0NDivmrXB2EGUNx8tz+9zR5S5JqoJ0VMjJENo68JD
+       properties :
+        x : 113
+        y : 16
+        width : 215
+        height : 36
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : NativeCircular
+       identifier : 0x23e4c4b8224dc183
+       internal_properties : CAAAAAgAAACiKtdVXPd6SVZqusUiZWm3xQNhIfuny22W7OuBK6hjxB9m6HxDak/PJqG0hH0PuszVm2UROVfQhjFyFSo6OCyVpZ7SbpbFX5GZJjt4rePBYlX3NSf+ipM38hcM6NelYtFpU5LrLgOhdxIl52f+d9Pz4Ie5Nhq9puEjuzZhOuTNfaCNxBbaMCdAINdOox55tgITkJkqT9Qk59t68qKlkinOVR2aGGtNcDK89sRLsPKSAQoRmsn0Sb0Z8DlK+TLJpEdOTSL7OXHJ4QLlapDFwpaf2FBjFizC+/l2hMa0U7AiqjLbouWFALWrOJ9x0gcfOZipIvha2WaELkVnp8XrJND202hKaLV/P+9A2bBzRlBcXiSzAKT2yPMi/TMGbd4bJF/L1VeEtOYx
+       properties :
+        x : 53
+        y : 10
+        width : 48
+        height : 48
+       type : 113
+       code_elements :
+        type_code : 136
+        p_codes :
+         -
+           type : 18
+         -
+           type : 210
+         -
+           type : 211
+         -
+           type : 212
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1+
+         procedure FI_PuLL_TO_REFRESH()
+      -
+        code : |1-
+         if IW_PULL_TO_REFRESH.Plane = 2 then
+         	AnimationSetParameter(IMG_WX_ARROW,acpReverse, True)
+         	IMG_WX_ARROW.Animation = True
+         end
+         STC_WX_PULL_RELEASE = <§$0003§>
+         IW_PULL_TO_REFRESH.Plane = 1
+        type : 231
+      -
+        code : |1-
+         if IW_PULL_TO_REFRESH.Plane = 1 then
+         	AnimationSetParameter(IMG_WX_ARROW,acpReverse, False)
+         	IMG_WX_ARROW.Animation = True
+         end
+         STC_WX_PULL_RELEASE = <§$0004§>
+         IW_PULL_TO_REFRESH.Plane = 2
+        type : 232
+      -
+        code : |1+
+         IW_PULL_TO_REFRESH.Plane = 3
+         
+         AnimationSetParameter(IMG_WX_ARROW,acpReverse, True)
+        type : 233
+ menu :
+  name : _Menu
+  identifier : 0x235e288300b26875
+  internal_properties : CAAAAAgAAAD6/fwZdBRB8IDYAHHmdn8xAxD+uXi41EZyxyOHKRRlDi2m/CEs9JtCuLNtpQR4bdAgFt15C/buXaxdGrwMrwwJuCoAJikYGopc1uMHSciY5Vph6EKTutrarwgYmlfNh1aVo8wMnkrPSeoSP72wKzwyxRnyuY2QRPOf6GYuWM5l6Ipw0pQnD39OpFcWAKOzfgtGoJixkv0AnpT1JQlY7hTDix6EZgtEQ8rOlTETgsUFxDI7MJeOlRLAFoXGjtTgiCQig5pkzhyLO6og7B3dCdLwCaouJtgl9qLZjPpvALzmdQLCOpZqXsPsrLga0fNO2Wo=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 71
+  p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FI_SansNom1
+resources :
+ string_res :
+  identifier : 0x185aa84300c00a97
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : Last update on %1 at %2
+     index : 0
+   -
+     text :
+      en-GB : MM/DD/YYYY
+     index : 1
+   -
+     text :
+      en-GB : "HH:MM"
+     index : 2
+   -
+     text :
+      en-GB : Pull to refresh
+     index : 3
+   -
+     text :
+      en-GB : Release to refresh
+     index : 4
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

@@ -1,0 +1,118 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Image_Editor
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Image_Editor
+ identifier : 0x23e4c4b41e7cb185
+ internal_properties : CAAAAAgAAAAYPAGtnNJlmvqOmWmswbfVOxN+f3PnVse0wbm+AmiZV32xZ5whXeyj1oEuWb7NyvYPR+amOmCLbCvtgRhYJ+os1UNkaMJH5oc37zlLgwSWqFbA8KOcTXIUvMOjXyOXAvWqlMjucxXAIZreLUhnrRqs7+dz+mbQrDXF4m7vT6RmFzNOjzADqI/ZdnO8yR9oRBh8hkMYZhZj7ehbhv/1Y3n92EQdtvpJhzrRSM5hnSVsFLnn9Bz3jdgY7bUUW09CCxFSzzP0nH5kwgcxIijRp/DYjYRNGJp/+Pxx0nnqwFak7mbqIlX/yPuWLjdDxL+2ufJYWlIN9iFLlysZrBDj71eh5Rm3t0nX7JSH/Gdt3TjP8q/lgLD3PnjIbZ8bLxiglaeG4J3h2W8MY5fm2Zdp2MQX8KeHRZTehaomjvbh0/F0gdRvXM0SuvbadnURMOp4enC6KubRK23fSyXN2qBqPn913flxAoPl2BF71+3Th6EqLM9F80nPVqdwngWP7e3kMsbON7VHieejueYhJwEKgp2dm9dpwL0m+CrWzh6CsmB+XGAnj2MHAU0irC8H6x1TiQ/8MzwWvg5uEssvY9SgG8ktL6nVzTv3OxUOZzEJEYEMaJxM272df42QDgwDSFE3/CvUgFAImRo0haTHm/Ncz2iqyjoWdgNjwLcyKVcUkRUhTzRYcmlxrwMminfvX1tqpH+xrfv+VTtgE76QyEk8GQIW7pFUXymfU49UUmbCwMTagG6lBaXBC90uHXey2x9eT1xebRuBJYgvLe/ChwqFF4wVl5Jm6kQN6j6IVJlQ8i5V5zC6VB/PakRws33/tQLGWMfkI5HfgrFJy9CQ3g4x66MxFggUNCu5r+WeldvXdvXuDy3p
+ properties :
+  width : 360
+  height : 565
+  heightMin : 638
+ controls :
+  -
+    name : IE_EDITOR
+    identifier : 0x23e4c4b41e7db185
+    internal_properties : CAAAAAgAAADy5wV4L6m/QM280wDVprvLqJrc5YWShQ2T7NyUJQ/oZnFJq8okIVEHGAwmUsFrIM6q+DAe+DdJGzCUC66E/jjq60X3maAWewLLZMJevhWldC79RN3H0Bqz+NRtu/3aQXkt4Y53iQAEoBB10M5/tjrHgmAocMr0X/EyAoyViLUuL2oaW07kvBiaqdEae3FqfeLpEa1CBWkV8j7bmbocgzUVZao4BybNi8DwsalPtTC04ES6Ymh95zxVikLZ9EiC0BoRScftR5XbPjaTgLBYTVp09YXpjDLq144Dg7EOgiYG7+wHrLZxiEYG9+8S2/K2ACX1ohFFBeDvTtTBOlUsMPAaNk7dOv8SmdoewAiUxpmbug2XpKbynw4xz/Ke15Ohnz1pJ/81tD9t4SC0lcIjfbCKNTFWkGrnKx7VVtQjSjCw5vmFkD0xDhP1Q7zltmlbKVYL8TyxeVbPzuF21+CH88QtGrN+4VKdDllsksjlCe9h8cJAQeI/jBMUsKutgn0/HtrLkl9o
+    properties :
+     width : 360
+     height : 566
+    type : 138
+    code_elements :
+     type_code : 164
+     p_codes : []
+  -
+    name : IMG_Miniature
+    identifier : 0x23e4c4b41e7eb185
+    internal_properties : CAAAAAgAAAA0A9UjqrL5yL+gWeC7YK7OGi6PFhoQLmNEShAhNrGsGG77px9g/gRsiMEBiL6d88Utd106hgdl7KJyoFrr9Sz9ZhKGnsw3YzUY8fVHtMtp7sIONxMHG/78WRRCILPpHqCxyobglhlXQDQqhsA9R2c8nZ4yDWQAu6mu0EFgw0RY6WeRQRVWThIayaCRE75M6SkK55EbOj4WXaziereNwSkfxAgDplh5Xvgfo/URFw+Yx4H5CwMAEjZhDyRLuzgoQICnSnUncWEd94jQzLE0VNlxFMg07DiE1geWLc9DVk4IOFek3FIB/l1VzT9Js83EByz3XNE85M155Hp2bhGF2QgFGjaR7fh7Hd0EVYhitm+XiHaCyWBbUF//Iw9sluqDW6In0MdyQCQ7iHDCJOQiLpJunZmXqE72nRMt8T5N6UYne5y1jGSaaKJys5Zr3eH/BWZb5oSSLCRdqVvFJZ8HkdIGQKBkVsQ/i4uhL5jr1/SWwcreX6n30+u8MmU/+zDtUp/TOTvPLtz0+g4Ytorb0W+jYTwsCso+rQdQmBGAwz2DwQimvgRaV+SK6kGoG29jXlKCq+ym3K8VCQddLB7EiGAM8SwXnAPoxk4Vcqz6OumhIgQyDpQirHbJBib/fTsb6ZYqZIgxhjw4cktk3SsGOssCNs5XOgGKkrxdXlRrUgE8EUQqATyEHl63jGwHee4vxesE23FD6Wrh/DO8RwRFEM22Na39IXxUmKjnGR39Ox45Agkd
+    properties :
+     x : -124
+     width : 96
+     height : 96
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        type : 18
+        enabled : false
+ actionbar :
+  name : ACTB_ActionBar
+  identifier : 0x23e4c4b41e7fb185
+  internal_properties : CAAAAAgAAADEKxVNdlmXPjI75ZguIXqH3msYfyFymuDHL1XiwVwbkvpf+9shkftgHNXXVHKtUFvDiz03Kt6E7VF5Jpt5m/W/tSwFt+v6HW6ot7Mk+Z9vgYL8/SJgH/jV3TPoZsW+8dAW1K+HV1GE6gk3ya0AE82cSvKas9Thor1Rvv2CDPT9uCuxxMqlf59p0b/kr5cz16cPG9tcqXCEAvUp2VgvgdtMzKcWTtCKeIYN2AeLtjVdwYzY9mokJZLHg+V5Q0PX04OVHqA8mBbc5eZStfUDu80UU5GIAYN48tneuQddRoSmMHzIgZP/1aZoGStE/sVnmQcdfsf1dyKL9Fu4b9ydMCey06k8+BhIxxEecgVUPM5R0Cb+s/4Zfk5jdiejxS+ekPGaGp8P/0/OtxplAxNzLKw2OT5n/ZNjtUQ=
+  controls : []
+  code_elements :
+   type_code : 125
+   p_codes :
+    -
+      type : 229
+      enabled : false
+    -
+      type : 239
+      enabled : false
+    -
+      type : 240
+      enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x29f8144500a4e5ba
+  internal_properties : CAAAAAgAAADgMVTORwj2Mt8z/R5WRL0mTVIMDO11ij5YdBwcO3ZAw8tWdEBL95DgWGGgMGBRKql5dANp5Vg/qpNyJvJQ8sIrr6GzC+masJIwyV5P7DpW0go2kGsf4EvdW1eqlu6V7I5EHVrMjd02cTaXwP0dbd1DSbdsd/Wxk0ScMGI7Z0eDsGOMLRfieoTYskOjcLtA7tgFoR24z+3d3zH3Bloaoqj6XKllvOzqHQUKs5ikiJtsiZpXF9leDIYykRzjnC4k4qQVjthAFpugw+diG+HfnEMv+L/rU3DRjlIiDq+0aeUP
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABKff4sxysR+9kg8GIJ708iDvb5GJxqytSUKL54fomJ9xlu42EWUFv/+en+BSQDmdB2krqVslwL/1eyQDVw8sffQk7lF3aDfZNzV/+zROsnKAy1jaSejRR5UgML
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      procedure MyWindow(gnPhotoID is int)
+      
+      HReadSeekFirst(Photo,PhotoID,gnPhotoID)
+      
+      gPhotoImage is Image = PhotoPath(Photo.Path)
+      IE_EDITOR = gPhotoImage
+      
+      MyWindow.Title = Photo.Title
+      MyWindow.ReturnedValue = ""
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     internal_properties : CAAAAAgAAACRuFBRbTN8QbPg8ZP8mH6tzsBScGPGNl37qJKkYH+75xBdUTlGXXM/lLcEJVfiiabnQ8lPKpv4y7p7K4wleU/WlupsdkXiBLa+f9mo0BDrkgwxUPTu0jTjdr+KRhp0Z1leAlW9N2LyMbcJUknkebfDGtHDhdd6+3tWVy2ApRMeHQ==
+     code : |1-
+      
+      gPhotoImage = IE_EDITOR
+      IMG_Miniature = gPhotoImage
+      if Lower(fExtractPath(Photo.Path,fExtension)) = ".png" then
+      	dSaveImagePNG(IMG_Miniature,ThumbnailPhotoPath(Photo.Path))
+      	dSaveImagePNG(gPhotoImage,PhotoPath(Photo.Path))
+      else
+      	dSaveImageJPEG(IMG_Miniature,ThumbnailPhotoPath(Photo.Path))
+      	dSaveImageJPEG(gPhotoImage,PhotoPath(Photo.Path))
+      end
+      
+      MyWindow.ReturnedValue = "upd"
+     type : 2
+ code_parameters :
+  internal_properties : CAAAAAgAAAB/E2SZRb9VnQU5+PivybZwVafwXhgCAWSYftdyjxWxFx7cb58ydr0ud57ZygZVSIIWCI/Me2Ok
+  original_name : _11
+resources :
+ string_res :
+  identifier : 0x13b533640016c9eb
+  internal_properties : CAAAAAgAAAA7wCugPa3Llh29up4VO+T++wa3OrewuQ3WP4NJV47trUqhlqE=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

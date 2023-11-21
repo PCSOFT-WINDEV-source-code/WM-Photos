@@ -1,0 +1,68 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Camera
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Camera
+ identifier : 0x23e4c4b31d94adeb
+ internal_properties : CAAAAAgAAABFahFM4quvvs4+pWF3xYs5PJu/cBPppyRWvFr625hXm/7509kq16Wva26iA0ChxATSO11gn9YfO5JelHfDUhj5PBEWsc2sjKZUZzWyMSDME8QF883P6YrVwLTHXs21celuWfmrx7uaSoz3mrpsuluTJcz7de3aeRMef4OvVN2CU1NIoIfgmn9dyEKeYGlNAYoM2ql48rCV7T42un7yFbw15CcbVsgpVqhlaN9b5I8wFZos6TK90FSuDpfQPx+kLrq2wDSkWBZ5GuFAU1UGG47UEL2ab6vFtnNT8IBDToQJsZVJuu5pJGgGcZkjG8PIUkTwtlH6ybq1V6zVhQ5YMWFLq+SohT3QiwhKza4MUv42CJytXPgviMnEV/TFeK9YnMFvsXkg/fqM05QIXSTlL7Tg1TGEa9R+9yunrJtGE0fDx4mWSSwSKhkLh2MhPBAeuTeuEPgr82HgVPMlwlwQjLI0//tLnBUnWdLVgTup82ERd+Nfl7k/8vjhuKHvIen0UYno711bNQ8o2niDn+V6Lnqahc+x3HcAEwG+CNLy+Abt414vw9sz2fBJWIGPz+mrNLIqK4IMdmJFcVn/t2RwH/7++4l1wRU5rEaWJRdXhy8TKxYOL8UhnzAfxi4HmD03eWTURKjMdQKpXiZ7IcE2wcsN2jq6tm39mYw2YVUykcFeuEhwUBenRVLltmW5qTuOB/55l8VIb82D0vJAGNUsNbOLHrcW+eM5zmp4MrrKCEB1Owox9SER9y5TU+UGo/VMuivw470zy9bE0jtQ0WxxL4lPkbMdR+ksMU0IheAtx9UB+MMZtwu0k7YcOge9djuRvdFYURx8KdPaxgQEOBEifdtALogYu10URgiHrw==
+ properties :
+  width : 360
+  height : 577
+  heightMin : 650
+ controls : []
+ actionbar :
+  name : ACTB_ActionBar
+  identifier : 0x23e4c4b31d95adeb
+  internal_properties : CAAAAAgAAABPW9mjpVnpcN7UD5bKwGyrF2bJtnFlL/z2/2BcVa1z3Xn4slzDRxPmRjw+4UYHJkg+tdD0QZpWHhVZQyXNnHDwsHuGoopJIoFzZET01nIYqr2crNnXweTqR1dSAX3vdK+WXvqn6jT4oabuQnPka6KjnbEzgiP3K2flEOSRNoyZCkJzGzLk00KncbQVKrTvz4Kt2yZVIUtjf9u4sAiErrQ6Htnh0Mj+x6CcDeJtA+YSl25CNTqeH6MHOGhc8VBEZu9RIq2cgkjxuzEfJNX+6gpSRRPxByd46WXDsKC3w2VmiVP2K5lR73+2470C4PauKI0dPd390ngnf0cxF06EycGNVsRyhUy8DFjunyhZLyb49BZ3Ea08dasWAzJUz1OaChBod0FsI9s+ZLxEWYQwRfoT1ioiFQ==
+  controls : []
+  code_elements :
+   type_code : 125
+   p_codes :
+    -
+      type : 229
+      enabled : false
+    -
+      type : 239
+      enabled : false
+    -
+      type : 240
+      enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x29f8144500a4e5ba
+  internal_properties : CAAAAAgAAADgMVTORwj2Mt8z/R5WRL0mTVIMDO11ij5YdBwcO3ZAw8tWdEBL95DgWGGgMGBRKql5dANp5Vg/qpNyJvJQ8sIrr6GzC+masJIwyV5P7DpW0go2kGsf4EvdW1eqlu6V7I5EHVrMjd02cTaXwP0dbd1DSbdsd/Wxk0ScMGI7Z0eDsGOMLRfieoTYskOjcLtA7tgFoR24z+3d3zH3Bloaoqj6XKllvOzqHQUKs5ikiJtsiZpXF9leDIYykRzjnC4k4qQVjthAFpugw+diG+HfnEMv+L/rU3DRjlIiDq+0aeUP
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABKff4sxysR+9kg8GIJ708iDvb5GJxqytSUKL54fomJ9xlu42EWUFv/+en+BSQDmdB2krqVslwL/1eyQDVw8sffQk7lF3aDfZNzV/+zROsnKAy1jaSejRR5UgML
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      procedure MyWindow()
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+ code_parameters :
+  internal_properties : CAAAAAgAAAB/E2SZRb9VnQU5+PivybZwVafwXhgCAWSYftdyjxWxFx7cb58ydr0ud57ZygZVSIIWCI/Me2Ok
+  original_name : _11
+resources :
+ string_res :
+  identifier : 0x13b5423c008ec482
+  internal_properties : CAAAAAgAAAA7wCugPa3Llh29up4VO+T++wa3OrewuQ3WP4NJV47trUqhlqE=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
